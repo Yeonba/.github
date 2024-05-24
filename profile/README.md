@@ -1,5 +1,7 @@
+# 💌 연바(Yeonba)
+![Group 2085664878](https://github.com/Yeonba/.github/assets/101340860/c838482c-f392-4467-b51b-61a31de03f57)
 
-## 📖 서비스 소개
+## 📖 주요 기능
 <image width="1000" alt="image" src="https://github.com/Yeonba/.github/assets/101340860/11d1df1b-0c88-461e-a6e9-15c009a07ec3">
 <image width="1000" alt="image" src="https://github.com/Yeonba/.github/assets/101340860/45ab84ef-d268-4b6e-b9e6-4db7c88d1b16">
 <image width="1000" alt="image" src="https://github.com/Yeonba/.github/assets/101340860/062fc83a-fa43-4fdb-903f-9b0a5ea04e8b">
