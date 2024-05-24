@@ -1,16 +1,8 @@
 
-# 연바(Yeonba)
-
-> 프로젝트명 : **Yeonba**
->
-> 팀명 : **Yeonba**
->
-> 주제 : **실시간 얼굴과 실제 얼굴의 유사도를 활용한 AI 소개팅 어플**
-
-## 💘 개요
-
-AI 얼굴 유사도 검증 시스템을 활용해 프로필 사진과 셀카의 유사도를 도출해 신뢰성있는 서비스를 제공합니다.
-
+## 📖 서비스 소개
+<image width="1000" alt="image" src="https://github.com/Yeonba/.github/assets/101340860/11d1df1b-0c88-461e-a6e9-15c009a07ec3">
+<image width="1000" alt="image" src="https://github.com/Yeonba/.github/assets/101340860/45ab84ef-d268-4b6e-b9e6-4db7c88d1b16">
+<image width="1000" alt="image" src="https://github.com/Yeonba/.github/assets/101340860/062fc83a-fa43-4fdb-903f-9b0a5ea04e8b">
 
 ## 💙 기술 스택
 ### iOS & AI
