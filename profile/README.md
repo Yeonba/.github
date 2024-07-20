@@ -25,7 +25,3 @@
 |:-:|:-:|:-:|:-:|:-:|
 <img src='https://avatars.githubusercontent.com/u/94881886?v=4' height=160 width=160px></img>|<img src='https://avatars.githubusercontent.com/u/64517007?v=4' height=160 width=160px></img>|<img src='https://avatars.githubusercontent.com/u/108039053?v=4' height=160 width=160px></img>|<img src='https://avatars.githubusercontent.com/u/101340860?v=4' height=160 width=160px></img>|<img src='https://avatars.githubusercontent.com/u/71162390?v=4' height=160  width=160px></img>|
 프론트엔드(iOS), AI | 프론트엔드(iOS), AI | 프론트엔드(iOS), AI | 백엔드(spring), infra | 백엔드(spring), infra |
-
-## 🧾 BE 개발 위키
-
-<a href="https://github.com/Yeonba/yeonba-api-server/wiki">연바 백엔드 개발에 관한 다양한 이야기<a/>
